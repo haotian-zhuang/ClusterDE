@@ -37,7 +37,7 @@ Suggests: parallel,
           tools,
           Seurat,
           ape
-Remotes: SONGDONGYUAN1994/scDesign3
+Remotes: haotian-zhuang/scDesign3
 biocViews:
          Software,
          SingleCell,
